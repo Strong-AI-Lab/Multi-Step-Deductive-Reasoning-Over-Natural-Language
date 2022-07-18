@@ -9,7 +9,7 @@ The word vector representation is based on [GloVe](https://nlp.stanford.edu/proj
 [glove.840B.300d.zip](http://nlp.stanford.edu/data/glove.840B.300d.zip)
 
 ## Dataset
-All the current work data is using the [PARARULE](https://allenai.org/data/ruletaker) from Allen AI institute. The dataset has been published on [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867), [CONCEPTRULES V1](https://drive.google.com/file/d/1lxoAvtcvqVCYiO8e3tENnrTQ1NNVtpjs/view?usp=sharing) and [CONCEPTRULES V2](https://drive.google.com/file/d/1lOCbW8bfZxj1RIzKDxn8xKg99XyYNj7z/view?usp=sharing).
+We use the [PARARULE](https://allenai.org/data/ruletaker) from Allen AI institute. The dataset has been published on [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867), [CONCEPTRULES V1](https://drive.google.com/file/d/1lxoAvtcvqVCYiO8e3tENnrTQ1NNVtpjs/view?usp=sharing) and [CONCEPTRULES V2](https://drive.google.com/file/d/1lOCbW8bfZxj1RIzKDxn8xKg99XyYNj7z/view?usp=sharing).
 
 ## Training
 There is a training script `train.py` that encapsulates training models defined in `models` directory. The models are built using [Keras](https://keras.io/) and [TensorFlow](https://www.tensorflow.org/) which can be installed using:
