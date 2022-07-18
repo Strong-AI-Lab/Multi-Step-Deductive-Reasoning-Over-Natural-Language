@@ -13,3 +13,26 @@ All the current work data is using the [PARARULE](https://allenai.org/data/rulet
   publisher={The 2nd International Joint Conference on Learning & Reasoning and 16th International Workshop on Neural-Symbolic Learning and Reasoning (IJCLR-NeSy 2022)}
 }
 ```
+## Acknowledgement
+ Thanks to the author of the [DeepLogic: Towards End-to-End Differentiable Logical Reasoning](https://github.com/nuric/deeplogic), for his advice and help in understanding and reproducing his work. This is of great help to me in completing this research and future research. Also Thanks [Tim Hartill](https://github.com/timhartill) who developed CONCEPTRULES V1 and CONCEPTRULES V2 datasets.
+ 
+ Thanks to the help from [FacebookAI: fairseq](https://github.com/pytorch/fairseq) for my replication to the experiment result from [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867). Here is my replication notes [Finetuning RoBERTa on RACE tasks](https://github.com/14H034160212/fairseq/blob/master/examples/roberta/README.race.md) to the [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867).
+ 
+ ## Other links
+[DMN+] Dynamic Memory Networks for Visual and Textual Question Answering
+https://arxiv.org/abs/1603.01417
+
+[DMN] Ask Me Anything: Dynamic Memory Networks for Natural Language Processing 
+https://arxiv.org/abs/1506.07285
+
+[Hyperas] Bayesian optimization of automated hyperparameter tuning
+https://github.com/maxpumperla/hyperas
+
+[MemN2N] End-To-End Memory Networks
+https://arxiv.org/abs/1503.08895
+
+[MemN2N implementation on bAbI tasks with very nice interactive demo] End-To-End Memory Networks for Question Answering
+https://github.com/14H034160212/MemN2N-babi-python
+
+Memory Networks
+https://arxiv.org/pdf/1410.3916.pdf
