@@ -58,13 +58,12 @@ For each depth dataset, we have more than 100,000 datasets to be used, much larg
 
 |Dataset|Train|Dev|Test|
 |:---|:----:|:----:|:----:|
-|Depth=0|184721|26453|52907|
-|Depth=1|92138|13136|26457|
-|Depth=2|38221|5503|10936|
-|Depth=3|19614|2817|5633|
-|Depth=4|7895|1106|2263|
-|Depth=5|7091|1006|2026|
-|Paraphrased|28010|4004|8008|
+|Depth=0|290435|41559|83119|
+|Depth=1|157440|22276|45067|
+|Depth=2|75131|10833|21496|
+|Depth=3|48010|6959|13741|
+|Depth=4|9443|1334|2691|
+|Depth=5|7325|1038|2086|
 
 <!--<div align=center><img src="./image/pararule_depth_distribution.png" width="300" /></div>-->
 
