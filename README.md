@@ -1,4 +1,4 @@
-# Multi-step-Deductive-Reasoning-over-Natural-Language
+# Multi-Step-Deductive-Reasoning-Over-Natural-Language
 This repository contains the code for the paper "Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation". This paper is the extention work from the poster [From Symbolic Logic Reasoning to Soft Reasoning: A Neural-Symbolic Paradigm](https://www.researchgate.net/publication/356695884_From_Symbolic_Logic_Reasoning_to_Soft_Reasoning_A_Neural-Symbolic_Paradigm). We add details for building the large-scale deeper multi-step reasoning dataset PARARULE-Plus and more experiments by adding the PARARULE-Plus in training. The goal is to build up an end-to-end neural based reasoning engine. The existing neural based models lack a reasoning engine, and they are not end-to-end training process. The repository also incorporates extra code for research as part of future work.
 
 ## Dataset
