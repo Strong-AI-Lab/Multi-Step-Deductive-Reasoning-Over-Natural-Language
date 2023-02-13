@@ -7,6 +7,8 @@ We use [PARARULE](https://allenai.org/data/ruletaker) from Allen AI institute. T
 ## Code
 The main body of the code is following with my previous project [From Symbolic Logic Reasoning to Soft Reasoning: A Neural-Symbolic Paradigm](https://github.com/Strong-AI-Lab/A-Neural-Symbolic-Paradigm). We add more experiment analysis on CONCEPTRULES V1, CONCEPTRULE V2, and PARARULE-Plus. You can look and use the code in the `source code` folder.
 
+If you want more details about this project, watch our [presentation recording](http://ilp.doc.ic.ac.uk/ijclr22_videos/NeSy%20Session%205%20-%20Thursday%2029th%20-%2014_40%20-%2015_50%20(BST)%20includes%20NeSy%20Invited%20Talk%20William%20Cohen.mp4).
+
  ## Citation
 ```
 @inproceedings{bao2022multi,
