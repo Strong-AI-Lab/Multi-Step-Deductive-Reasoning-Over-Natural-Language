@@ -14,8 +14,11 @@ If you want more details about this project, watch our [presentation recording](
 @inproceedings{bao2022multi,
   title={Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation},
   author={Qiming Bao and Alex Yuxuan Peng and Tim Hartill and Neset Tan and Zhenyun Deng and Michael Witbrock and Jiamou Liu},
+  booktitle={Proceedings of the 16th International Workshop on Neural-Symbolic Learning and Reasoning as part of the 2nd International Joint Conference on Learning \& Reasoning (IJCLR 2022)},
+  pages={202-217},
+  month=sep,
   year={2022},
-  publisher={The 2nd International Joint Conference on Learning and Reasoning and 16th International Workshop on Neural-Symbolic Learning and Reasoning (IJCLR-NeSy 2022)}
+  address={Cumberland Lodge, Windsor Great Park, United Kingdom}
 }
 ```
 ## Acknowledgement
