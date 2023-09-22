@@ -9,7 +9,7 @@ The main body of the code is following with my previous project [From Symbolic L
 
 If you want more details about this project, watch our [presentation recording](http://ilp.doc.ic.ac.uk/ijclr22_videos/NeSy%20Session%205%20-%20Thursday%2029th%20-%2014_40%20-%2015_50%20(BST)%20includes%20NeSy%20Invited%20Talk%20William%20Cohen.mp4).
 
- ## <a href="https://ceur-ws.org/Vol-3212/"><img src="./nesy.png" alt="Star Icon" width="30" /></a> Citation
+## <a href="https://ceur-ws.org/Vol-3212/"><img src="./nesy.png" alt="Star Icon" width="30" /></a> Citation
 ```
 @inproceedings{bao2022multi,
   title={Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation},
